@@ -1,8 +1,20 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Veronica Alexandra Micanquer Moreno  
+Id:  588473  
+### Descripción del contenido
+Este repositorio se escribió con el proposito de aprender a utilizar git, sus repositorios locales y remotos.Habla de los comandis y de las diferentes herramientas para utilizarlo correctamente.
+
+### Pasos necesarios para clonar y ejecutar el proyecto.
+
+### Tabla de contenido con enlaces a los archivos 
+* [Uso consola](./docs/uso_consola.md)  
+* [Archivo git ignore](./docs/Archivo_gitignore.md)  
+* [Repositorio local ](./docs/repositorio_local.md)  
+* [Repositorio remoto] ()
+
+
 ---
 # Evaluación
 
