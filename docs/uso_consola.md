@@ -92,3 +92,11 @@ vim → Permite editar un archivo desde la consola
 ## CONCLUSIÓN
 
 El uso de la consola facilita la navegación por el sistema, la organización de proyectos y la creación de archivos sin depender de la interfaz gráfica. Estos comandos son la base para trabajar con herramientas como Git y para desenvolverse mejor en el mundo de la programación.
+## Ejemplos
+### Ejemplo push 
+![Ejemplo push](../images/Captura%20de%20pantalla%202026-01-30%20152314.png)
+### Ejemplo cd y cd ..
+![Ejemplo cd](../images/cd.png)
+
+### Ejemplo git commit 
+![Ejemplo git commit](../images/Git%20commit.png)
