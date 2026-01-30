@@ -1,0 +1,107 @@
+🧠 Archivos del sistema operativo (siempre se ignoran)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+Son archivos “basura” que crea el sistema y no sirven para el proyecto.
+
+📝 Archivos temporales y logs
+*.log
+*.tmp
+*.swp
+*.swo
+
+
+Se generan mientras trabajas y no tienen valor para el repositorio.
+
+🔐 Archivos con información privada
+.env
+.env.local
+config.json
+*.key
+*.pem
+
+
+Pueden contener contraseñas, tokens o claves secretas. Nunca deberían subirse.
+
+⚙️ Archivos de configuración del editor/IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.iml
+
+
+Son configuraciones personales de tu editor (VS Code, IntelliJ, etc.).
+
+📦 Dependencias (MUY común)
+JavaScript / Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+Python
+__pycache__/
+*.pyc
+venv/
+.env/
+
+Java
+target/
+*.class
+*.jar
+*.war
+
+C / C++
+*.o
+*.out
+build/
+
+🏗️ Archivos generados al compilar o construir el proyecto
+dist/
+build/
+out/
+bin/
+
+
+Se pueden volver a generar, no hace falta guardarlos en Git.
+
+🧪 Archivos de pruebas temporales o cobertura
+coverage/
+.cache/
+pytest_cache/
+
+🧩 Ejemplo de .gitignore “general”
+
+Este funciona para muchos proyectos básicos:
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Entorno y secretos
+.env
+*.key
+
+# Editores
+.vscode/
+.idea/
+
+# Builds
+dist/
+build/
+
+# Dependencias comunes
+node_modules/
+__pycache__/
+venv/
+
+ 
